@@ -1,13 +1,16 @@
-<div align="center">
-  <img src="./penguin.gif" alt="penguin cozy" width="220" />
-  
-  <h1>Alicia Ros</h1>
-  <p><b>Desarrolladora Web Full-Stack & Especialista Visual</b></p>
-  <p><i>Transformando la lógica del código en experiencias visuales interactivas</i></p>
-</div>
-
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="middle" width="240" style="border: none;">
+      <img src="./penguin.gif" alt="penguin cozy" width="220" />
+    </td>
+    <td valign="middle" style="border: none;">
+      <h1>Alicia Ros</h1>
+      <p><b>Desarrolladora Web Full-Stack & Especialista Visual</b></p>
+      <p><i>Transformando la lógica del código en experiencias visuales interactivas</i></p>
+    </td>
+  </tr>
+</table>
 <br>
-
 ## ☕ Sobre mí
 
 Soy una desarrolladora web con un perfil híbrido. Poseo formación previa con un grado en **Historia del Arte** y el **Máster de Profesorado** lo que me aporta un ojo crítico para la composición estética y una alta capacidad para la organización, metodologías ágiles y documentación técnica.
