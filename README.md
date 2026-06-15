@@ -1,23 +1,23 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="middle" width="240" style="border: none;">
-      <img src="./penguin.gif" alt="penguin cozy" width="220" />
-    </td>
-    <td valign="middle" style="border: none;">
-      <h1>Alicia Ros</h1>
-      <p><b>Desarrolladora Web Full-Stack & Especialista Visual</b></p>
-      <p><i>Transformando la lógica del código en experiencias visuales interactivas</i></p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="./penguin.gif" alt="penguin cozy" width="180" align="left" />
 <br>
-## ☕ Sobre mí
+  
+  ### &nbsp; &nbsp; ✨ALICIA ROS ✨
+
+  ### &nbsp; &nbsp;Desarrolladora Web Full-Stack
+
+  &nbsp; &nbsp; Transformando la lógica del código en experiencias visuales interactivas
+</div>
+
+<br clear="left">
+ 
+## 🙍‍♀️ Sobre mí
 
 Soy una desarrolladora web con un perfil híbrido. Poseo formación previa con un grado en **Historia del Arte** y el **Máster de Profesorado** lo que me aporta un ojo crítico para la composición estética y una alta capacidad para la organización, metodologías ágiles y documentación técnica.
 
 Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** para potenciar arquitecturas de software robustas y eficientes.
 
-* 💼 **Experiencia real:** He realizado mis prácticas profesionales en la agencia **Posiziona**, desarrollando portfolios fotográficos completos, soluciones corporativas y la arquitectura de múltiples blogs optimizados.
+* 💼 **Experiencia:** He realizado mis prácticas profesionales en la agencia **Posiziona**, desarrollando portfolios fotográficos completos, soluciones corporativas y la arquitectura de múltiples blogs optimizados.
 * 🌿 **Filosofía de trabajo:** Orientada al desarrollo de código limpio, atención a los detalles visuales y al rendimiento.
 
 ## 🛠️ Herramientas & Tecnologías
@@ -37,7 +37,7 @@ Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** 
 
 <br>
 
-## 🌙 Proyectos & Líneas de investigación
+## 🌙 Proyectos e investigación
 
 * 🚀 **Despliegue CMS & Desarrollo Web:** Experiencia en la creación, migración y optimización de sitios corporativos y blogs basados en el ecosistema WordPress.
 * 🎨 **Investigación interactiva (Three.js):** Actualmente investigando y aprendiendo el desarrollo de gráficos 3D en la web con **Three.js**, enfocada en la creación de mi futuro portfolio interactivo.
