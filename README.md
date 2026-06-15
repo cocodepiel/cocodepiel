@@ -44,10 +44,6 @@ Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** 
 * 📖 **Experimentación lógica:** Experimentando desarrollo de estructuras lógicas y scripts en **Ren'Py** para la creación de proyectos de narrativa visual.
 
 
-## 🐍 Snake
-
-Este gráfico se actualiza automáticamente con mis aportes diarios en GitHub.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/cocodepiel/cocodepiel/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
