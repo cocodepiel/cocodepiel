@@ -1,74 +1,52 @@
 <div align="center">
   <img src="./penguin.gif" alt="penguin cozy" width="220" />
   
-  <h1> ✨ Alicia Ros ✨</h1>
-  <p><i>Programando con calma, creatividad y un café cerca.</i></p>
+  <h1>Alicia Ros</h1>
+  <p><b>Desarrolladora Web Full-Stack & Especialista Visual</b></p>
+  <p><i>Transformando la lógica del código en experiencias visuales interactivas</i></p>
 </div>
 
 <br>
 
 ## ☕ Sobre mí
 
-¡Hola! Soy **Alicia**, también conocida como **cocodepiel**. Me gusta el desarrollo web, el diseño y crear proyectos con una estética bonita y personalizada.
+Soy una desarrolladora web con un perfil híbrido. Poseo formación previa con un grado en **Historia del Arte** y el **Máster de Profesorado** lo que me aporta un ojo crítico para la composición estética y una alta capacidad para la organización, metodologías ágiles y documentación técnica.
 
-- 🎨 Estoy aprendiendo y construyendo proyectos web.
-- 🌿 Me gusta el clean code y los detalles visuales.
-- 🐾 Mi perro me recuerda que también hay que descansar.
+Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** para potenciar arquitecturas de software robustas y eficientes.
 
-<br>
+* 💼 **Experiencia real:** He realizado mis prácticas profesionales en la agencia **Posiziona**, desarrollando portfolios fotográficos completos, soluciones corporativas y la arquitectura de múltiples blogs optimizados.
+* 🌿 **Filosofía de trabajo:** Orientada al desarrollo de código limpio, atención a los detalles visuales y al rendimiento.
 
-## 🛠️ Lenguajes y herramientas
+## 🛠️ Herramientas & Tecnologías
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,sql,bash,wordpress,elementor,renpy,threejs,react,git,github,vscode&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python,html,css,mysql,wordpress,git,github,vscode&theme=light&perline=8" />
   </a>
+</p>
+</p><p align="center">
+
+  <img src="https://img.shields.io/badge/SCRUM-2b7a78?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+
 </p>
 
 <br>
 
-## 🌙 Lo que hago
+## 🌙 Proyectos & Líneas de investigación
 
-- 📖 Visual novels en Ren'Py.
-- 🌐 Portfolio web con WordPress + Elementor.
-- 🎯 Proyectos 3D con Three.js.
-- 📱 Contenido creativo para redes.
+* 🚀 **Despliegue CMS & Desarrollo Web:** Experiencia en la creación, migración y optimización de sitios corporativos y blogs basados en el ecosistema WordPress.
+* 🎨 **Investigación interactiva (Three.js):** Actualmente investigando y aprendiendo el desarrollo de gráficos 3D en la web con **Three.js**, enfocada en la creación de mi futuro portfolio interactivo.
+* 📖 **Experimentación lógica:** Experimentando desarrollo de estructuras lógicas y scripts en **Ren'Py** para la creación de proyectos de narrativa visual.
 
-<br>
-
-## 🌿 Un rincón cozy
-
-<details>
-<summary><b>✨ Sobre mis proyectos y creatividad</b></summary>
-<br>
-Además del desarrollo, me encanta el mundo de la creación de contenido, el diseño visual, la historia y el folclore. También hago crochet y otras cosas hechas a mano para equilibrar lo digital con lo artesanal.
-</details>
-
-<br>
 
 ## 🐍 Snake
 
+Este gráfico se actualiza automáticamente con mis aportes diarios en GitHub.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/cocodepiel/cocodepiel/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<br>
-
-## 🌐 Redes
-
-<p align="center">
-  <a href="https://github.com/cocodepiel">
-    <img src="https://img.shields.io/badge/GitHub-1b1f23?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/cocodepiel">
-    <img src="https://img.shields.io/badge/Instagram-2b1538?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@cocodepiel">
-    <img src="https://img.shields.io/badge/TikTok-0f1720?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@cocodepiel">
-    <img src="https://img.shields.io/badge/YouTube-2a1717?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 <br>
